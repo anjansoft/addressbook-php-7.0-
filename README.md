@@ -40,6 +40,8 @@ Installation
 if any mysqli isues pls check below link.
 https://in.godaddy.com/community/cPanel-Hosting/mysqli-and-mysqlnd-dont-work-together/td-p/56880
 
+DEMO LINK : http://dev.php.softkeysinc.com/
+
 
  
 
